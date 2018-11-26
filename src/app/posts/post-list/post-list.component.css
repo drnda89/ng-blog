@@ -16,3 +16,7 @@ mat-card {
     max-width: 700px;
 }
 
+mat-card-content:focus {
+	outline: none;
+	border: 0;
+}
